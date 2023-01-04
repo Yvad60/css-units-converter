@@ -10,6 +10,11 @@ module.exports = {
       fontFamily: {
         sans: ["var(--font-public-sans)", ...fontFamily.sans],
       },
+      colors: {
+        primary_chocolate: "#4F4050",
+        primary_light: "#FFFBFF",
+        primary_gray: "#8F858F",
+      },
     },
   },
   plugins: [],
